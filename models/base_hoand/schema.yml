@@ -1,0 +1,21 @@
+version: 2
+
+sources:
+  - name: hoand
+    tables:
+     - name: branch
+     - name: card_master
+     - name: ccy
+     - name: customer
+     - name: dep_master
+     - name: loan_master
+     - name: product
+
+models:
+  - name: branch
+  - name: card_master
+  - name: ccy
+  - name: customer
+  - name: dep_master
+  - name: loan_master
+  - name: product
